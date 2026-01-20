@@ -7,4 +7,4 @@ It focuses on:
 - Working with branches
 - Handling merge conflicts
 - Collaborating using GitHub
-
+This file was updated directly from GitHub to practice collaboration.
